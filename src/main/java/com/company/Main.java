@@ -9,7 +9,7 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) throws IOException {
         if (args.length == 0) {
-            System.err.println("Usage: java -jar code-assignment-106.jar <employees.csv>");
+            System.err.println("Usage: java -jar org-structure-analyzer.jar <employees.csv>");
             System.exit(1);
         }
 
