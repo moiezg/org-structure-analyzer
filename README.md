@@ -22,7 +22,7 @@ This project analyzes an organization's structure:
 ## Running
 ```bash
 mvn clean package
-java -cp target/code-assignment-106-1.0-SNAPSHOT.jar com.company.Main employees.csv
+java -cp target/org-structure-analyzer-1.0-SNAPSHOT.jar com.company.Main employees.csv
 ```
 
 ---
